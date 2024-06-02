@@ -1,2 +1,3 @@
 # PRODIGY_WD_03
-This is a timer 
+This is a Stopwatch Web Application
+
